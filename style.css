@@ -1,0 +1,40 @@
+body {
+    background-image: url("bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 40px;
+    color: #00e00f;
+    text-align: center;
+}
+
+.header {
+    display: block;
+    width: 110%;
+    margin: -30px -40px -30px -30px;
+}
+
+.content {
+    background: rgba(0, 0, 0, 0.6);
+    width: 50%;
+    margin: 100px auto;
+    padding: 20px;
+    border: 3px solid white;
+    box-shadow: 0 0 30px rgb(255, 255, 255);
+    position: relative;
+}
+
+.list {
+    width: 400px;
+    margin: 0 auto;
+    text-align: left;
+    padding-left: 10px;
+    font-size: 30px;
+    color: white;
+}
