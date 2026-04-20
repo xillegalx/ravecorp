@@ -12,7 +12,10 @@ body {
     font-size: 40px;
     color: #00e00f;
     text-align: center;
-    cursor: url('https://cdn.cursors-4u.net/previews/sukuna-finger-c7e60abd-64.webp') 0 4, auto !important;
+}
+
+a {
+    color: #56c7f3;
 }
 
 .header {
@@ -22,7 +25,7 @@ body {
 }
 
 .content {
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.7);
     width: 50%;
     margin: 100px auto;
     padding: 20px;
